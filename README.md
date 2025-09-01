@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Nahuel Pedroso from Argentina<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I am currently studying Programming at the university<br>- ⚡ In my spare time I like to go out with friends.</p>
+<p align="left">I'm Nahuel Pedroso from Argentina i am 32 years old<br><br>- 🔭 I’m working as Web Developer<br>- 📚 Graduated as a university technician in programming<br>- ⚡ In my spare time I like to go out with friends.</p>
 
 ###
 
@@ -47,5 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
 
 
