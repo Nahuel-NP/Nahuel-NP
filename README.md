@@ -30,9 +30,9 @@ Vitest · Jest · Testing Library · Docker · PM2 · NGINX · DigitalOcean
 
 ## 🛠️ Algunos proyectos destacados
 
-- 🏦 **[Rebit Wallet](#https://www.app.rebit.ar/auth/login)** – Billetera virtual con balances en tiempo real, autenticación 2FA y transacciones seguras (GOAT Fintech).  
-- 🏨 **[Hotel Garden Park](#https://gardenpark.com.ar/)** – Sitio institucional multidioma optimizado para SEO.  
-- 🌿 **[Bioland Costa Rica](#https://www.bio-land.com/)** – Plataforma web para empresa de cosmética natural, con diseño responsive y SEO-friendly.  
+- 🏦 **[Rebit Wallet](https://www.app.rebit.ar/auth/login)** – Billetera virtual con balances en tiempo real, autenticación 2FA y transacciones seguras (GOAT Fintech).  
+- 🏨 **[Hotel Garden Park](https://gardenpark.com.ar/)** – Sitio institucional multidioma optimizado para SEO.  
+- 🌿 **[Bioland Costa Rica](https://www.bio-land.com/)** – Plataforma web para empresa de cosmética natural, con diseño responsive y SEO-friendly.  
 
 
 ---
@@ -46,5 +46,6 @@ Vitest · Jest · Testing Library · Docker · PM2 · NGINX · DigitalOcean
 ---
 
 ⭐ Si alguno de mis proyectos te resulta interesante, ¡no dudes en dejar una estrella o contactarme para colaborar!
+
 
 
