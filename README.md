@@ -1,52 +1,50 @@
-<h1 align="center">hey there 👋</h1>
+# 👋 ¡Hola! Soy Nahuel Pedroso
 
-###
+Soy **Full Stack Developer** con más de **4 años de experiencia** construyendo aplicaciones web modernas y escalables.  
+Me especializo en **Frontend con React, Next.js y TypeScript**, y también tengo experiencia en **Backend con Node.js, Express, Nest.js y Prisma**, lo que me permite abordar proyectos de manera integral.
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 🚀 Sobre mí
 
-<p align="left">I'm Nahuel Pedroso from Argentina i am 32 years old<br><br>- 🔭 I’m working as Web Developer<br>- 📚 Graduated as a university technician in programming<br>- ⚡ In my spare time I like to go out with friends.</p>
+- 🎓 **Técnico Universitario en Programación** (UTN - Facultad Regional Resistencia).  
+- 💼 He trabajado en proyectos **fintech, institucionales y de e-commerce**.  
+- ⚙️ Apasionado por el **rendimiento, la calidad del código y la experiencia de usuario**.  
+- 🌎 Actualmente busco colaborar en **equipos remotos en LATAM**.  
+- 💡 Me motiva aprender constantemente y compartir conocimientos con otros devs.
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nahuel-pedroso-78b012207/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## 🧠 Tecnologías principales
 
-###
+### 🖥️ Frontend
+React · Next.js · TypeScript · JavaScript (ES6+) · Tailwind CSS · Vue.js · HTML · CSS  
 
-<h3 align="left">🛠 Language and tools</h3>
+### ⚙️ Backend
+Node.js · Express · Nest.js · Prisma · RESTful APIs · MongoDB · PostgreSQL  
 
-###
+### 🧩 Testing & DevOps
+Vitest · Jest · Testing Library · Docker · PM2 · NGINX · DigitalOcean  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+---
 
+## 🛠️ Algunos proyectos destacados
 
+- 🏦 **[Rebit Wallet](#)** – Billetera virtual con balances en tiempo real, autenticación 2FA y transacciones seguras (GOAT Fintech).  
+- 🏨 **[Hotel Garden Park](#)** – Sitio institucional multidioma optimizado para SEO.  
+- 🌿 **[Bioland Costa Rica](#)** – Plataforma web para empresa de cosmética natural, con diseño responsive y SEO-friendly.  
+
+*(Podés agregar enlaces reales a los repositorios o demos de tus proyectos si son públicos.)*
+
+---
+
+## 🤝 Conectemos
+
+📫 **Email:** [pedroso.nahuel.dev@gmail.com](mailto:pedroso.nahuel.dev@gmail.com)  
+🌐 **Portfolio:** [pedroso-nahuel.vercel.app](https://pedroso-nahuel.vercel.app)  
+💼 **LinkedIn:** [linkedin.com/in/nahuel-pedroso](https://linkedin.com/in/nahuel-pedroso)  
+
+---
+
+⭐ Si alguno de mis proyectos te resulta interesante, ¡no dudes en dejar una estrella o contactarme para colaborar!
 
